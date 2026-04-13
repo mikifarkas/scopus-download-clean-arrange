@@ -2,7 +2,7 @@
 
 This repository contains a Python-based workflow for retrieving, cleaning, and structuring publication metadata from the **Elsevier Scopus API**. The main objective is to build a curated dataset of journal articles for downstream analysis. The code was developed for the below project, which we ask you to cite in case you use our code in your research:
 
-Brooks, C., Farkas, M. (2026): Chasing Ratings, Losing Impact: Journal Selection Behaviour in Business and Management Studies. Research Policy.
+Brooks, C., Farkas, M. (2026): Chasing Ratings, Losing Impact: Journal Selection Behaviour in Business and Management Studies. Research Policy, forthcoming.
 
 ---
 
